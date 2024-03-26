@@ -6,11 +6,9 @@ from game import Game, GameDecoder
 import os
 import torch
 from torch import nn
+import torch.optim as optim
 from torch.utils.data import DataLoader
 from torchvision import datasets, transforms
-import torch.optim as optim
-
-import os 
 
 def main():
     dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -28,13 +26,13 @@ def main():
     print(f"Using {device} device")
 
     model = nn.Sequential(
-            nn.Linear(64 + 1 + 1 + 1, 128),
-            nn.ReLU(),
-            nn.Linear(128, 128),
-            nn.ReLU(),
-            nn.Linear(128, 1),
-            nn.Sigmoid()
-        ).to(device)
+                nn.Linear(64 + 1 + 1 + 1, 128),
+                nn.ReLU(),
+                nn.Linear(128, 128),
+                nn.ReLU(),
+                nn.Linear(128, 1),
+                nn.Sigmoid()
+            ).to(device)
     
     criterion = nn.BCEWithLogitsLoss(pos_weight=torch.tensor([10.0], device=device))
     optimizer = optim.SGD(model.parameters(),lr=(1 * (10 ** (-5))))
@@ -50,7 +48,7 @@ def main():
             linear_board[i] = int(piece.piece_type) * (-1 if piece.color == chess.BLACK else 1)
         return linear_board
 
-    EPOCHS = 1
+    EPOCHS = 10
     GAMES = 10
     # 10 epochs
     for i in range(EPOCHS):
@@ -80,6 +78,9 @@ def main():
 
         
         print(f'Epoch: {i+1} / {EPOCHS} \t\t\t Training Loss:{train_loss}')
+
+    for param in model.parameters():
+        print(param.data)
 
     torch.save(model.state_dict(), f'{dir_path}/model')
 
