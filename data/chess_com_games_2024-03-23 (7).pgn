@@ -1,0 +1,979 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "david1984fr"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1265"]
+[BlackElo "1313"]
+[TimeControl "180"]
+[EndTime "5:42:16 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 e5 2. c3 d6 3. Nf3 Nc6 4. Bc4 Nf6 5. O-O Be7 6. Bxf7+ Kxf7 7. Qb3+ Ke8 8.
+d4 exd4 9. cxd4 Bg4 10. h3 Bxf3 11. Qxf3 Nxd4 12. Qd3 c5 13. Be3 Kf7 14. Bxd4
+cxd4 15. Qxd4 Rf8 16. e5 dxe5 17. Qxe5 Kg8 18. Nc3 Bd6 19. Qg5 Qc7 20. Rac1 Bf4
+21. Nd5 Nxd5 22. Rxc7 Bxg5 23. Rxb7 Bf6 24. Rd1 Ne7 25. g4 Nc6 26. b3 Ne5 27. f4
+Nc6 28. g5 Bd4+ 29. Kg2 Rxf4 30. Rc7 Rf2+ 31. Kg3 Raf8 32. Rxc6 R8f3+ 33. Kg4
+Rf4+ 34. Kh5 g6+ 35. Kh6 Bg7# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "abhute23"]
+[Black "AbingLoser"]
+[Result "0-1"]
+[WhiteElo "1305"]
+[BlackElo "1339"]
+[TimeControl "180"]
+[EndTime "5:46:08 PDT"]
+[Termination "AbingLoser won by checkmate"]
+
+1. e4 f6 2. f4 g6 3. Nf3 Bg7 4. d4 d6 5. Nc3 b6 6. Be3 a6 7. Bc4 b5 8. Bb3 e6 9.
+O-O a5 10. a3 Bb7 11. e5 Qe7 12. exf6 Nxf6 13. Ng5 d5 14. Ne2 Ne4 15. Nxe4 dxe4
+16. Ng3 Bd5 17. Bxd5 exd5 18. c3 c6 19. f5 g5 20. Qd2 h6 21. h3 Bf6 22. Ne2 Qd6
+23. g4 h5 24. Kg2 hxg4 25. Bxg5 gxh3+ 26. Kf2 Qh2+ 27. Ke1 Be7 28. Bxe7 Kxe7 29.
+f6+ Kd6 30. Qf4+ Qxf4 31. Nxf4 Nd7 32. Ke2 Nxf6 33. Rh1 Raf8 34. Nxh3 Ng4 35.
+Kd2 e3+ 36. Ke2 Rf6 37. Ng5 Rg8 38. Nf3 Rgf8 39. Ne1 Rf2+ 40. Kd3 Rd2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "abhute23"]
+[Black "AliQue_TM"]
+[Result "0-1"]
+[WhiteElo "1298"]
+[BlackElo "1334"]
+[TimeControl "180"]
+[EndTime "5:48:09 PDT"]
+[Termination "AliQue_TM won by resignation"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Nf3 f6 5. O-O Nge7 6. a3 a6 7. b4 Ba7 8. Nd5
+b5 9. Bb3 Nd4 10. Nxd4 Bxd4 11. c3 Nxd5 12. Bxd5 c6 13. cxd4 cxd5 14. dxe5 dxe4
+15. exf6 Qxf6 16. Rb1 Bb7 17. Bb2 Qg6 18. Qe2 O-O 19. Qe3 d5 20. f3 exf3 21. Rf2
+fxg2 22. Rxg2 Qxb1+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "tr0274"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1274"]
+[BlackElo "1289"]
+[TimeControl "180"]
+[EndTime "5:49:31 PDT"]
+[Termination "tr0274 won - game abandoned"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. d4 exd4 5. c3 dxc3 6. Nxc3 Be6 7. Bxe6 fxe6 8.
+Qb3 Qe7 9. Qxb7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "abhute23"]
+[Black "GM_Ludo"]
+[Result "1-0"]
+[WhiteElo "1298"]
+[BlackElo "1307"]
+[TimeControl "180"]
+[EndTime "12:37:29 PDT"]
+[Termination "abhute23 won on time"]
+
+1. e4 c5 2. f4 d6 3. Nf3 Nc6 4. Nc3 g6 5. Bc4 Nf6 6. d4 cxd4 7. Nxd4 Nxd4 8.
+Qxd4 Bg7 9. e5 Ng4 10. O-O O-O 11. Qd1 dxe5 12. Qxd8 Rxd8 13. fxe5 Nxe5 14. Be2
+Bf5 15. Bf4 e6 16. Rae1 Nd7 17. Bc4 Nb6 18. Bb3 Rac8 19. Be5 Bxe5 20. Rxe5 Nc4
+21. Bxc4 Rxc4 22. h3 Rd2 23. g4 Bxc2 24. Rb5 b6 25. Re5 Rcd4 26. Ree1 a6 27. Rc1
+Bd3 28. Rfd1 Bb5 29. Rxd2 Rxd2 30. Ne4 Kg7 31. Nxd2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "McQueenn95"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1287"]
+[BlackElo "1290"]
+[TimeControl "180"]
+[EndTime "12:40:14 PDT"]
+[Termination "McQueenn95 won - game abandoned"]
+
+1. Nc3 e5 2. d3 Nf6 3. e4 Nc6 4. f4 d6 5. Nf3 Bg4 6. Be2 Nd4 7. Nxd4 exd4 8.
+Bxg4 dxc3 9. bxc3 Nxg4 10. Qxg4 Be7 11. O-O O-O 12. Rb1 d5 13. e5 c5 14. d4 cxd4
+15. cxd4 Rc8 16. Qe2 Qa5 17. Rxb7 Qxa2 18. Rxe7 Rxc2 19. Qh5 Rxg2+ 20. Kh1 g6
+21. Qh3 Rc8 22. Qxg2 Qxg2+ 23. Kxg2 Rc2+ 24. Rf2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "bbox16"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1250"]
+[BlackElo "1297"]
+[TimeControl "180"]
+[EndTime "20:30:29 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Nc6 4. Nf3 g6 5. c4 dxc4 6. Bxc4 Bf5 7. a3 Bg7 8. Nc3
+O-O 9. O-O e6 10. Bg5 Ne7 11. Bxf6 Bxf6 12. e4 Bg4 13. h3 Bxf3 14. Qxf3 Bxd4 15.
+Rfd1 Nc6 16. Rd3 Qe7 17. Bb5 Bg7 18. Bxc6 bxc6 19. Rc1 Rad8 20. Na4 Rxd3 21.
+Qxd3 Rd8 22. Qc4 Bd4 23. Qxc6 Qf6 24. Rf1 Qf4 25. g3 Qf3 26. Qxc7 Bxf2+ 27. Rxf2
+Rd1+ 28. Kh2 Qh1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "abhute23"]
+[Black "FortunatoJunior"]
+[Result "1-0"]
+[WhiteElo "1303"]
+[BlackElo "1217"]
+[TimeControl "180"]
+[EndTime "20:34:15 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. Bc4 Bg7 5. O-O e6 6. a3 Nge7 7. Ne2 O-O 8. Ng3
+a6 9. d4 cxd4 10. Bf4 e5 11. Bg5 Re8 12. Qd2 b5 13. Bd3 Qb6 14. Bh6 d5 15. Bxg7
+Kxg7 16. h4 dxe4 17. Bxe4 Bb7 18. h5 Rac8 19. hxg6 hxg6 20. Qg5 Rh8 21. Nxe5
+Nxe5 22. Qxe5+ Qf6 23. Qxf6+ Kxf6 24. Bxb7 Rxc2 25. Bxa6 d3 26. Bxb5 d2 27. Rad1
+Rhc8 28. Rxd2 Rxd2 29. Ne4+ Ke5 30. Nxd2 Nd5 31. Re1+ Kd4 32. Nf3+ Kc5 33. Rc1+
+Kxb5 34. Rxc8 Nf4 35. Rf8 f5 36. g3 Ne2+ 37. Kg2 Nc1 38. Nd4+ Ka4 39. Ra8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "abhute23"]
+[Black "parmarveersinh"]
+[Result "1-0"]
+[WhiteElo "1311"]
+[BlackElo "1301"]
+[TimeControl "180"]
+[EndTime "20:39:26 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. d4 Bg4 5. Be2 Bxf3 6. Bxf3 Nxd4 7. c3 Nxf3+ 8.
+Qxf3 Be7 9. f5 f6 10. Nd2 Qd7 11. O-O O-O-O 12. Nb3 d5 13. exd5 Qxd5 14. Qg3
+Bc5+ 15. Be3 Bxe3+ 16. Qxe3 Ne7 17. Qxa7 Qc6 18. Rad1 Rxd1 19. Rxd1 Qb6+ 20.
+Qxb6 cxb6 21. Nd2 Rd8 22. g4 Nc6 23. Kf1 Na5 24. Ke2 Nc4 25. Nxc4 Rxd1 26. Kxd1
+Kd7 27. Kd2 Kc6 28. Kd3 b5 29. Ne3 Kc5 30. b4+ Kc6 31. Ke4 Kd7 32. Nd5 Kc6 33.
+Ne7+ Kd7 34. Nd5 Kc6 35. h4 h6 36. g5 hxg5 37. hxg5 fxg5 38. Kxe5 g4 39. Nf4 g3
+40. Ke6 Kc7 41. Kf7 Kd6 42. Kg6 Ke5 43. Ng2 Ke4 44. Kxg7 Kxf5 45. Kf7 Kg4 46.
+Ne3+ Kf3 47. Nf5 g2 48. Nh4+ Ke3 49. Nxg2+ Kd2 50. Nf4 Kxc3 51. Nd5+ Kc4 52. Ke6
+b6 53. Kd6 Kd4 54. Kc6 Kc4 55. Kxb6 Kd4 56. Kxb5 Kxd5 57. Kb6 Kd6 58. a4 Kd7 59.
+Kb7 Kd6 60. a5 Kd7 61. a6 Kd6 62. a7 Kd5 63. a8=Q Kc4 64. Qc8+ Kxb4 65. Qf5 Kc3
+66. Qg4 Kd3 67. Kc6 Ke3 68. Kd5 Kd3 69. Qg3+ Kc2 70. Kc4 Kd2 71. Qa3 Ke2 72. Kd4
+Kd2 73. Qa2+ Kc1 74. Kc3 Kd1 75. Qd2# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.13"]
+[Round "-"]
+[White "chrispolo06"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1333"]
+[BlackElo "1303"]
+[TimeControl "180"]
+[EndTime "20:40:35 PDT"]
+[Termination "chrispolo06 won by resignation"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. Nc3 Nf6 5. d3 Be7 6. O-O O-O 7. Be3 Bg4 8. h3
+Bxf3 9. Qxf3 Nd4 10. Qd1 d5 11. exd5 Nxd5 12. Nxd5 c6 13. Nxe7+ Qxe7 14. Re1 Qg5
+15. Bxg5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "firested"]
+[Result "0-1"]
+[WhiteElo "1295"]
+[BlackElo "1328"]
+[TimeControl "180"]
+[EndTime "0:44:58 PDT"]
+[Termination "firested won by checkmate"]
+
+1. e4 e5 2. f4 c6 3. d4 d5 4. Nf3 exd4 5. Nxd4 Bc5 6. exd5 Nf6 7. Be3 Qb6 8. c3
+O-O 9. Bd3 Bxd4 10. Bxd4 Qxb2 11. Bxf6 gxf6 12. Qh5 Qc1+ 13. Kf2 Qxf4+ 14. Qf3
+Qh4+ 15. g3 Qg5 16. h4 Qh6 17. g4 Re8 18. Bf5 Na6 19. Qd3 Qf4+ 20. Qf3 Qh6 21.
+Rd1 Nc5 22. Nd2 Bxf5 23. Qxf5 Qg6 24. dxc6 bxc6 25. Qxc5 Re5 26. Qxc6 Rae8 27.
+Re1 Qh6 28. g5 Qxh4+ 29. Kf1 Rxe1+ 30. Rxe1 Qxe1+ 31. Kg2 Qxd2+ 32. Kf3 Qd3+ 33.
+Kg4 Re4+ 34. Kh5 Qh3# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "ANKITEJFXJ"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1305"]
+[BlackElo "1303"]
+[TimeControl "180"]
+[EndTime "0:56:57 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. Nc3 Nf6 5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 c5 8.
+Qd1 Bg4 9. f3 Be6 10. Bxe6 fxe6 11. Bg5 Be7 12. Qd2 O-O 13. O-O-O Nd7 14. Bxe7
+Qxe7 15. Rdf1 a6 16. g4 b5 17. h4 b4 18. Ne2 a5 19. f4 a4 20. f5 exf5 21. exf5
+a3 22. b3 Qf6 23. c3 Rae8 24. Nf4 Ne5 25. Nd5 Qf7 26. f6 gxf6 27. Rxf6 Qg7 28.
+Rxf8+ Rxf8 29. g5 Nf3 30. Nf6+ Kh8 31. Qxd6 Nxh4 32. Rxh4 Qxg5+ 33. Rf4 Qg1+ 34.
+Kc2 Qg2+ 35. Qd2 Qg6+ 36. Ne4 Re8 37. cxb4 Rxe4 38. Rf8+ Kg7 39. Qc3+ Rd4+ 40.
+Kc1 Qg1+ 41. Kc2 Qd1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "rohitsharmapkl"]
+[Result "1-0"]
+[WhiteElo "1310"]
+[BlackElo "1273"]
+[TimeControl "180"]
+[EndTime "1:03:26 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 e5 2. Nc3 Bb4 3. Nf3 Nf6 4. Bc4 O-O 5. O-O c6 6. d4 exd4 7. Nxd4 d5 8.
+exd5 cxd5 9. Bd3 Nc6 10. Nxc6 bxc6 11. Ne2 Bg4 12. h3 Bh5 13. Bg5 Qd6 14. c3 Bc5
+15. Qc2 Bg6 16. Bxg6 fxg6 17. Ng3 Ne4 18. Nxe4 dxe4 19. Qxe4 Rae8 20. Qc4+ Qd5
+21. Qxd5+ cxd5 22. b4 Bb6 23. a4 a6 24. a5 Ba7 25. Rad1 Re5 26. Bh4 Ref5 27. Bg3
+h5 28. Rd3 g5 29. Rfd1 h4 30. Bd6 Bxf2+ 31. Kh2 R8f7 32. Rxd5 Rxd5 33. Rxd5 Bg3+
+34. Bxg3 hxg3+ 35. Kxg3 Rf6 36. Rxg5 Kh7 37. Kg4 Kh6 38. Rh5+ Kg6 39. Rg5+ Kf7
+40. Rc5 Kg8 41. Kg5 Kh7 42. g4 Rg6+ 43. Kh4 Rd6 44. g5 Re6 45. Rc4 Kg6 46. Kg4
+Re5 47. h4 Kf7 48. Rc7+ Kg6 49. h5+ Kh7 50. g6+ Kh6 51. Rc5 Re4+ 52. Kf5 Rh4 53.
+Ke6 Re4+ 54. Kf7 Rf4+ 55. Ke6 Rf6+ 56. Kd7 Rf1 57. Kc7 Rf6 58. Kb7 Re6 59. Rc6
+Re5 60. Kxa6 Rxh5 61. Kb6 Re5 62. a6 Re8 63. a7 Kg5 64. Kb7 Re7+ 65. Rc7 Re6 66.
+a8=Q Rxg6 67. Qe8 Kh6 68. Qxg6+ Kxg6 69. Kc8 Kf6 70. Kd7 g5 71. Rc6+ Kf5 72. Rh6
+g4 73. Rh8 g3 74. Rg8 Kf4 75. b5 Kf3 76. b6 g2 77. b7 Kf2 78. b8=Q g1=Q 79. Rxg1
+Kxg1 80. Qf4 Kg2 81. c4 Kh3 82. c5 Kg2 83. c6 Kh3 84. Qg5 Kh2 85. Qg7 Kh3 86. c7
+Kh4 87. c8=R Kh3 88. Rh8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "yalqi"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1296"]
+[BlackElo "1318"]
+[TimeControl "180"]
+[EndTime "1:08:47 PDT"]
+[Termination "abhute23 won by resignation"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 Nf6 4. Nf3 Bc5 5. Ng5 d5 6. exd5 Nd4 7. d6 Ne6 8.
+dxc7 Qxc7 9. Nd5 Nxd5 10. Bxd5 Nxg5 11. Qh5 Ne6 12. Qf5 O-O 13. Be4 g6 14. Qh3
+Nf4 15. Qf3 h5 16. d3 Bg4 17. Qg3 Qb6 18. O-O Ne2+ 19. Kh1 Nxg3+ 20. fxg3 f5 21.
+Bf3 Bxf3 22. gxf3 e4 23. dxe4 fxe4 24. Bh6 Rf7 25. f4 Bd4 26. f5 Bxb2 27. Rab1
+Rxf5 28. Rxf5 gxf5 29. Bf4 Rd8 30. h4 Qd4 31. Kh2 Qf2+ 32. Kh3 Rd2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "kalasatama"]
+[Result "0-1"]
+[WhiteElo "1309"]
+[BlackElo "1297"]
+[TimeControl "180"]
+[EndTime "1:11:26 PDT"]
+[Termination "kalasatama won by checkmate"]
+
+1. e4 d6 2. f4 Nf6 3. e5 dxe5 4. fxe5 Nfd7 5. d4 g6 6. Nf3 Bg7 7. Nc3 O-O 8. Bg5
+f6 9. exf6 exf6 10. Be3 Re8 11. Qd2 Qe7 12. Nd5 Qe4 13. Bc4 Kf8 14. O-O-O Na6
+15. Bxa6 bxa6 16. Bh6 Qxd5 17. Bxg7+ Kxg7 18. h4 Qxa2 19. c3 Nb6 20. h5 Bf5 21.
+h6+ Kf7 22. Ne5+ fxe5 23. Rhf1 Qb1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "mountainf"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1333"]
+[BlackElo "1301"]
+[TimeControl "180"]
+[EndTime "1:15:18 PDT"]
+[Termination "mountainf won by resignation"]
+
+1. e4 e5 2. Nc3 d6 3. Nf3 Nc6 4. g3 Nf6 5. Bg2 Be7 6. O-O O-O 7. Re1 Bg4 8. d4
+Nxd4 9. h3 Bxf3 10. Bxf3 Nxf3+ 11. Qxf3 Nd7 12. Nd5 c6 13. Nxe7+ Qxe7 14. h4 Qe6
+15. b3 f5 16. exf5 Rxf5 17. Qc3 Raf8 18. Rf1 Nc5 19. a4 Ne4 20. Qe3 d5 21. Ba3
+R8f7 22. Qxa7 h6 23. Qb8+ Kh7 24. Bb2 Rxf2 25. Qxe5 Rxf1+ 26. Rxf1 Rxf1+ 27.
+Kxf1 Nxg3+ 28. Qxg3 Qf5+ 29. Kg2 Qxc2+ 30. Qf2 Qe4+ 31. Kh2 d4 32. Qg2 Qf4+ 33.
+Qg3 Qd2+ 34. Qg2 Qb4 35. Qe4+ Kg8 36. Bxd4 c5 37. Qd5+ Kh8 38. Qd8+ Kh7 39. Be5
+Qd2+ 40. Qxd2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "pawelo8_chess"]
+[Result "0-1"]
+[WhiteElo "1292"]
+[BlackElo "1264"]
+[TimeControl "180"]
+[EndTime "1:18:42 PDT"]
+[Termination "pawelo8_chess won by resignation"]
+
+1. e4 c6 2. f4 d6 3. Nf3 Nd7 4. d4 h6 5. d5 g6 6. Nc3 Bg7 7. Be3 Ngf6 8. e5 Ng4
+9. Be2 Nxe3 10. Qd2 Nxg2+ 11. Kf2 Nxe5 12. Kxg2 Nxf3 13. Bxf3 Qd7 14. Rae1 Qh3+
+15. Kf2 Bg4 16. Re3 Bxf3 17. Rxf3 Qh4+ 18. Rg3 c5 19. Re1 Qxh2+ 20. Rg2 Qh4+ 21.
+Rg3 Qf6 22. Qe3 h5 23. Nb5 Rc8 24. Nxa7 Rc7 25. Nb5 Rc8 26. Nc3 h4 27. Rh3 Rc7
+28. Ne4 Qxb2 29. Nxd6+ Kd8 30. Nxf7+ Kc8 31. Nxh8 Bd4 32. d6 Bxe3+ 33. Rexe3
+Qxc2+ 34. Kf3 exd6 35. Nxg6 Qxg6 36. Rxh4 Rg7 37. Rh8+ Kc7 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "Du_LamaruLa"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1300"]
+[BlackElo "1300"]
+[TimeControl "180"]
+[EndTime "1:22:58 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Bc4 c5 5. c3 Nc6 6. Qb3 Be6 7. Bxe6 fxe6 8.
+Qxb7 Nge7 9. cxd4 Nxd4 10. Nxd4 cxd4 11. Qb5+ Qd7 12. Qxd7+ Kxd7 13. O-O Nc6 14.
+Nd2 e5 15. Nc4 Be7 16. b3 h5 17. f3 g5 18. a3 g4 19. Bd2 gxf3 20. Rxf3 d3 21.
+Rxd3 Nd4 22. Rf1 Rhg8 23. Ne3 Bg5 24. Nd5 Bxd2 25. Nf6+ Ke6 26. Nxg8 Bg5 27. Nf6
+Bxf6 28. Rc3 Ne2+ 29. Kf2 Nxc3 30. Rc1 Nxe4+ 31. Kf3 Nd2+ 32. Ke3 Nxb3 33. Rc7
+Nd4 34. Rh7 Bg5+ 35. Kd3 Rb8 36. Rxh5 Rb3+ 37. Kc4 Bd2 38. Rh6+ Kd7 39. Rh7+ Kc6
+40. Rxa7 d5# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "m4e701"]
+[Result "1-0"]
+[WhiteElo "1309"]
+[BlackElo "1314"]
+[TimeControl "180"]
+[EndTime "1:26:07 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bc4 Bc5 5. O-O h6 6. a3 d6 7. b4 Bb6 8. Nd5
+Nxd5 9. exd5 Nd4 10. Nxd4 Bxd4 11. c3 Bb6 12. d4 a6 13. dxe5 O-O 14. e6 fxe6 15.
+dxe6 Qe7 16. Qg4 Ba7 17. Bxh6 b5 18. Bxg7 bxc4 19. Bf6+ Kh7 20. Qh5+ Kg8 21.
+Qh8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "fyexby"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1313"]
+[BlackElo "1317"]
+[TimeControl "180"]
+[EndTime "1:31:39 PDT"]
+[Termination "abhute23 won by resignation"]
+
+1. e4 e5 2. d3 d6 3. Nf3 Nc6 4. Nc3 Nf6 5. g3 Be7 6. Bg2 O-O 7. h3 Be6 8. g4 Qd7
+9. g5 Nh5 10. h4 Nf4 11. Bxf4 exf4 12. Qd2 Bg4 13. Qxf4 Bxf3 14. Bxf3 Nd4 15.
+O-O-O Nxf3 16. Qxf3 f6 17. gxf6 Bxf6 18. Qg2 Qe6 19. Nd5 Rac8 20. Nxf6+ Rxf6 21.
+Rhf1 Qxa2 22. f4 Qa1+ 23. Kd2 Qa5+ 24. c3 Qa2 25. Kc2 Rcf8 26. f5 d5 27. exd5
+Rb6 28. Rb1 Qa4+ 29. Kc1 Rbf6 30. Qe4 Qd7 31. h5 Rxf5 32. Rxf5 Qxf5 33. Qxf5
+Rxf5 34. c4 Rxh5 35. Kc2 Kf7 36. Rf1+ Ke7 37. Re1+ Kd6 38. Re6+ Kd7 39. Kc3 Rh6
+40. Re5 Kd6 41. Rf5 a5 42. b4 axb4+ 43. Kxb4 b6 44. d4 c5+ 45. dxc5+ bxc5+ 46.
+Kb5 Rf6 47. Rg5 g6 48. Rg1 h5 49. Ra1 h4 50. Ra6+ Ke5 51. Rxf6 Kxf6 52. d6 h3
+53. Kc6 h2 54. d7 h1=Q+ 55. Kc7 Qh2+ 56. Kc8 Qh3 57. Kc7 Qxd7+ 58. Kxd7 g5 59.
+Kd6 g4 60. Kxc5 g3 61. Kb5 g2 62. c5 g1=Q 63. c6 Qg4 64. c7 Qc8 65. Kc6 Ke6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "Georgeo3249"]
+[Result "0-1"]
+[WhiteElo "1309"]
+[BlackElo "1315"]
+[TimeControl "180"]
+[EndTime "1:32:35 PDT"]
+[Termination "Georgeo3249 won by checkmate"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nxc6 bxc6 7. Be3 Nf6 8.
+Be2 O-O 9. O-O Bb7 10. Qd2 d5 11. exd5 cxd5 12. Bd3 d4 13. Bh6 dxc3 14. bxc3 Qd5
+15. Bxg7 Qxg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "Bicroruixm"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1275"]
+[BlackElo "1300"]
+[TimeControl "180"]
+[EndTime "1:38:16 PDT"]
+[Termination "Bicroruixm won on time"]
+
+1. d4 d6 2. Bf4 Nf6 3. e3 Bf5 4. Nf3 Nbd7 5. c4 c5 6. Qb3 Ne4 7. Qxb7 Qa5+ 8.
+Nfd2 Nxd2 9. Nxd2 Rb8 10. Qd5 Rxb2 11. dxc5 Nxc5 12. Qa8+ Kd7 13. Qd5 e6 14. Qd4
+Rxa2 15. Rxa2 Qxa2 16. Be2 Ne4 17. O-O Nxd2 18. Rd1 Ne4 19. c5 d5 20. Bb5+ Kc8
+21. Qe5 Qxf2+ 22. Kh1 Qg1+ 23. Kxg1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "magdasah"]
+[Result "1/2-1/2"]
+[WhiteElo "1301"]
+[BlackElo "1339"]
+[TimeControl "180"]
+[EndTime "2:13:33 PDT"]
+[Termination "Game drawn - timeout vs insufficient material"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 f6 4. Nc3 h6 5. d4 Bb4 6. d5 Bxc3+ 7. bxc3 Nce7 8. Ba3
+d6 9. Bc4 Bg4 10. O-O Qd7 11. Qd2 Bxf3 12. Rxf3 O-O-O 13. f5 g6 14. Raf1 gxf5
+15. exf5 h5 16. Qd3 Nh6 17. Bb5 c6 18. dxc6 bxc6 19. Ba6+ Kb8 20. Rb1+ Ka8 21.
+c4 Rb8 22. Rff1 Nhxf5 23. Bxd6 Qxd6 24. Qf3 Nd4 25. Qxf6 Qxf6 26. Rxb8+ Rxb8 27.
+Rxf6 Rb1+ 28. Kf2 Nef5 29. Rf8+ Rb8 30. Rf6 Ne7 31. Rf7 Nef5 32. Rh7 Nd6 33.
+Rxh5 Nxc2 34. Rxe5 Nb4 35. Ra5 Nxa6 36. Rxa6 Rb2+ 37. Kg3 Kb7 38. Ra3 Nxc4 39.
+Rf3 Rxa2 40. Rf7+ Kb6 41. h4 Ra3+ 42. Kh2 Ne3 43. h5 Ra5 44. h6 Rh5+ 45. Kg3
+Rxh6 46. Kf3 Nd5 47. Ke4 Nf6+ 48. Kf5 Nd5 49. g4 a5 50. g5 Rh5 51. Rg7 Ne3+ 52.
+Kf4 Rh3 53. Rg8 a4 54. g6 Nd5+ 55. Ke4 Nf6+ 56. Kf5 Nxg8 57. Ke6 Rg3 58. Kf7 a3
+59. g7 Rxg7+ 60. Kxg7 a2 61. Kxg8 a1=Q 62. Kf7 c5 63. Ke6 c4 64. Kd6 c3 65. Kd7
+c2 66. Kc8 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "TomNook13"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1266"]
+[BlackElo "1308"]
+[TimeControl "180"]
+[EndTime "2:16:51 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. d3 d5 2. e3 Nf6 3. b3 c5 4. Bb2 Nc6 5. Nf3 Bg4 6. Be2 e5 7. Nc3 d4 8. exd4
+exd4 9. Ne4 Bxf3 10. Bxf3 Nxe4 11. Bxe4 Be7 12. O-O O-O 13. c3 dxc3 14. Bxc3 Bf6
+15. Bd2 Bxa1 16. Qxa1 Nd4 17. Be3 Rb8 18. b4 b6 19. a3 f5 20. Bf3 Nxf3+ 21. gxf3
+f4 22. Bd2 Qg5+ 23. Kh1 Rf6 24. Bc3 Rg6 25. Rg1 Qxg1+ 26. Qxg1 Rxg1+ 27. Kxg1 g6
+28. d4 cxb4 29. Bxb4 b5 30. Bc5 a6 31. Kg2 Rd8 32. Kh3 Kf7 33. Kg4 Kf6 34. Kxf4
+g5+ 35. Kg4 h6 36. h4 gxh4 37. Kxh4 Kg6 38. Kg4 h5+ 39. Kg3 Kg5 40. f4+ Kh6 41.
+Kh4 Rd5 42. f3 Rf5 43. Kg3 h4+ 44. Kh3 Rxf4 45. Kg2 Kg5 46. Bd6 Rxd4 47. f4+ Kf5
+48. Be5 Rd2+ 49. Kh3 Rd3+ 50. Kxh4 Rxa3 51. Kh5 Rh3# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "MGopl"]
+[Result "1-0"]
+[WhiteElo "1317"]
+[BlackElo "1337"]
+[TimeControl "180"]
+[EndTime "2:21:30 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 c6 5. Bc4 Bf5 6. O-O e6 7. d3 h6 8. Be3
+Nf6 9. Ne4 Bxe4 10. dxe4 Qxd1 11. Raxd1 Nxe4 12. Ne5 Be7 13. b3 O-O 14. Bd3 Nf6
+15. f4 Nbd7 16. Nxd7 Nxd7 17. f5 exf5 18. Bxf5 Nf6 19. Rf3 Rfd8 20. Rxd8+ Rxd8
+21. Rg3 Kh8 22. Bd3 a6 23. Kf2 b5 24. Ke2 c5 25. c4 b4 26. h4 Nh5 27. Rf3 Bxh4
+28. Rxf7 Re8 29. Bg6 Nf6 30. Rxf6 gxf6 31. Bxe8 Bg5 32. Bxg5 hxg5 33. g4 a5 34.
+Bg6 Kg7 35. Bf5 Kf8 36. Ke3 Ke7 37. Ke4 Kd6 38. Bg6 Ke6 39. Bh7 Kd6 40. Kf5 Ke7
+41. Bg8 Kf8 42. Bd5 Kg7 43. Ke6 Kg6 44. Ke7 f5 45. Bf7+ Kg7 46. gxf5 g4 47. f6+
+Kh6 48. Bd5 Kg6 49. f7 a4 50. f8=Q g3 51. Be4+ Kg5 52. Qf5+ Kh4 53. Bf3 g2 54.
+Qg4# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "DanCloud"]
+[Result "1-0"]
+[WhiteElo "1326"]
+[BlackElo "1334"]
+[TimeControl "180"]
+[EndTime "2:23:26 PDT"]
+[Termination "abhute23 won by resignation"]
+
+1. e4 g6 2. f4 Bg7 3. Nf3 Nf6 4. Nc3 O-O 5. e5 Nh5 6. Be2 Nxf4 7. d4 Ne6 8. O-O
+b6 9. Be3 Bb7 10. Qd2 c6 11. Bh6 c5 12. Bxg7 Nxg7 13. Qh6 e6 14. Ng5 Qxg5 15.
+Qxg5 f6 16. exf6 Nc6 17. fxg7 Rxf1+ 18. Rxf1 Nd8 19. Qf6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "Karnatibrahmaji"]
+[Result "1-0"]
+[WhiteElo "1335"]
+[BlackElo "1339"]
+[TimeControl "180"]
+[EndTime "2:26:11 PDT"]
+[Termination "abhute23 won by resignation"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. Bc4 d6 7. Nc3 g6 8.
+Be3 Bg7 9. O-O-O O-O 10. h4 Bg4 11. f3 Bd7 12. g4 Bc6 13. g5 Nd7 14. Qd2 Ne5 15.
+Bb3 Rc8 16. f4 Nd7 17. f5 Ne5 18. Bd4 Qc7 19. Bxe5 dxe5 20. Nd5 Bxd5 21. Bxd5
+Rfd8 22. Rhf1 e6 23. fxe6 fxe6 24. Bxe6+ Kh8 25. Qc3 Qe7 26. Bxc8 Rxd1+ 27. Rxd1
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "agussopian341"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1314"]
+[BlackElo "1343"]
+[TimeControl "180"]
+[EndTime "2:28:05 PDT"]
+[Termination "abhute23 won by resignation"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 c6 4. Nxe5 d5 5. exd5 cxd5 6. Bb5+ Bd7 7. Bxd7+ Nbxd7
+8. Nxd7 Qxd7 9. Qe2+ Be7 10. O-O O-O 11. f4 Bc5+ 12. Kh1 Ne4 13. d3 Nf6 14. a3
+Qg4 15. Nc3 Rae8 16. Qxg4 Nxg4 17. Nxd5 Nf2+ 18. Rxf2 Re1+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "pelnruskiiite"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1326"]
+[BlackElo "1351"]
+[TimeControl "180"]
+[EndTime "2:30:06 PDT"]
+[Termination "abhute23 won by resignation"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Nc6 4. Bb5 Bd7 5. O-O Nf6 6. d4 exd4 7. Nxd4 Nxd4 8.
+Bxd7+ Qxd7 9. Qxd4 Be7 10. Bg5 O-O 11. Rfe1 Ng4 12. Bxe7 Qxe7 13. e5 Nxe5 14. f4
+Qh4 15. fxe5 Qxd4+ 16. Kh1 dxe5 17. Nb5 Qxb2 18. Nxc7 Rac8 19. Nd5 Rxc2 20. Ne7+
+Kh8 21. Rab1 Qxa2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "gopinath_chess"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1293"]
+[BlackElo "1341"]
+[TimeControl "180"]
+[EndTime "2:37:21 PDT"]
+[Termination "gopinath_chess won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 c5 7. Qd1 Nf6 8.
+Bg5 Be7 9. Bb5+ Bd7 10. Bxd7+ Nxd7 11. Bxe7 Qxe7 12. O-O Ne5 13. Nd5 Qd7 14. Qd2
+O-O 15. Rad1 f5 16. exf5 Qxf5 17. Ne3 Qg6 18. Qxd6 Nf3+ 19. Kh1 Nd4 20. Qxc5 Ne2
+21. Qc4+ Kh8 22. Qxe2 Rac8 23. c3 Rce8 24. Qd2 Qh5 25. f3 Rf6 26. Ng4 Rfe6 27.
+Rfe1 Rxe1+ 28. Rxe1 Rxe1+ 29. Qxe1 g6 30. h3 Kg7 31. Qe7+ Kg8 32. Qxb7 Qf5 33.
+Nh6+ Kf8 34. Nxf5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "T16code"]
+[Result "1-0"]
+[WhiteElo "1350"]
+[BlackElo "1361"]
+[TimeControl "180"]
+[EndTime "2:42:29 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bd3 Bg7 5. Nf3 Nc6 6. d5 Ne5 7. Nxe5 dxe5 8.
+Bb5+ Bd7 9. Qe2 O-O 10. Bd3 c6 11. h4 cxd5 12. Nxd5 Bg4 13. f3 Nxd5 14. fxg4 Nf4
+15. Qf3 Nxd3+ 16. cxd3 Rc8 17. h5 Qa5+ 18. Bd2 Qb6 19. h6 Bh8 20. g5 Qxb2 21.
+Rd1 Rc2 22. Qe3 f6 23. O-O Qd4 24. Qxd4 exd4 25. gxf6 Rxf6 26. Bb4 Rxf1+ 27.
+Rxf1 Rxa2 28. Bxe7 Bg7 29. hxg7 Kxg7 30. Bf8+ Kg8 31. Bh6 Ra1 32. Rxa1 Kf7 33.
+Rxa7 Ke6 34. Rxb7 Ke5 35. Rd7 g5 36. Rd5+ Ke6 37. Bxg5 h5 38. Rf5 h4 39. Bf4 h3
+40. gxh3 Ke7 41. h4 Ke8 42. h5 Ke7 43. h6 Ke6 44. h7 Ke7 45. h8=Q Ke6 46. Qf6+
+Kd7 47. Rd5+ Ke8 48. Qd8+ Kf7 49. Rf5+ Kg6 50. Qg8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "philpoker888"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1312"]
+[BlackElo "1357"]
+[TimeControl "180"]
+[EndTime "2:44:33 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. d4 d5 2. Qd3 Nc6 3. Na3 Nf6 4. Bf4 Bf5 5. Qb3 e5 6. dxe5 Ne4 7. f3 Nc5 8. Qc3
+b6 9. e6 Bxe6 10. Nb5 Bd6 11. Nxd6+ cxd6 12. b4 d4 13. Qa3 Nb7 14. e4 dxe3 15.
+Qa6 Qf6 16. Qxb7 Qxa1+ 17. Ke2 Bc4+ 18. Kxe3 Qd4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "hullvanker2"]
+[Result "1-0"]
+[WhiteElo "1366"]
+[BlackElo "1376"]
+[TimeControl "180"]
+[EndTime "2:47:03 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 d5 2. exd5 e6 3. dxe6 Bxe6 4. Nc3 Nc6 5. Nf3 Bd6 6. d4 Qe7 7. Be3 O-O-O 8.
+d5 Bg4 9. dxc6 Bxh2 10. cxb7+ Kb8 11. Qe2 Bd6 12. O-O-O Nf6 13. Nb5 h5 14. Nxd6
+cxd6 15. Bxa7+ Kxa7 16. Qxe7 Rd7 17. Qe3+ Kxb7 18. Rd3 Ra8 19. Rb3+ Kc7 20. Qb6+
+Kc8 21. Ba6+ Rxa6 22. Qb8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "Dejanbgd"]
+[Result "1/2-1/2"]
+[WhiteElo "1366"]
+[BlackElo "1361"]
+[TimeControl "180"]
+[EndTime "2:51:11 PDT"]
+[Termination "Game drawn - insufficient material"]
+
+1. e4 e5 2. Nc3 Nf6 3. d4 d6 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bg5 Be7 7. O-O-O+ Bd7
+8. Bc4 Ke8 9. Nf3 h6 10. Bxf6 Bxf6 11. Nd5 Kd8 12. Nxf6 gxf6 13. Bxf7 Ke7 14.
+Bc4 Bg4 15. Rd3 Nc6 16. Bd5 Nb4 17. Ra3 Nxd5 18. exd5 Bxf3 19. gxf3 Kd6 20. c4
+Rhg8 21. Kd2 Rg2 22. Ke3 a6 23. Rd3 Kc5 24. b3 Rag8 25. Rhd1 Rxf2 26. d6 Rxa2
+27. dxc7 Rc8 28. Rd5+ Kc6 29. Rd6+ Kxc7 30. R1d5 Rxh2 31. Rc5+ Kb8 32. Rxc8+
+Kxc8 33. Rxf6 Kd7 34. Rf7+ Kc6 35. Ke4 b5 36. Rf6+ Kc5 37. cxb5 axb5 38. Rf5 Kb4
+39. Rxe5 Re2+ 40. Kf5 Rxe5+ 41. Kxe5 Kxb3 42. f4 Kc2 43. f5 b4 44. f6 b3 45. f7
+b2 46. f8=Q b1=Q 47. Qf5+ Kc1 48. Qf1+ Kc2 49. Qxb1+ Kxb1 50. Kf5 Kb2 51. Kg6
+Ka1 52. Kh5 Kb2 53. Kxh6 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "Somon74"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1328"]
+[BlackElo "1357"]
+[TimeControl "180"]
+[EndTime "2:54:37 PDT"]
+[Termination "Somon74 won by resignation"]
+
+1. e4 e5 2. Bc4 d6 3. d3 Nc6 4. Nc3 Nf6 5. Nf3 Be7 6. O-O O-O 7. Bg5 Be6 8. Bxf6
+Bxf6 9. Bxe6 fxe6 10. h3 Nd4 11. Nxd4 exd4 12. Ne2 c5 13. Ng3 d5 14. f3 dxe4 15.
+fxe4 Be5 16. Ne2 Qd6 17. Qd2 Rf6 18. Rxf6 Bxf6 19. Rf1 Rf8 20. Kh1 h6 21. Ng1
+Bg5 22. Qd1 Be3 23. Nf3 Qg3 24. Qe2 g5 25. c3 h5 26. cxd4 Bxd4 27. Nxd4 cxd4 28.
+Rxf8+ Kxf8 29. Qf3+ Qxf3 30. gxf3 Kf7 31. Kg2 h4 32. Kf2 e5 33. Ke2 Kg6 34. Kd2
+Kh5 35. Kc2 b5 36. Kb3 a5 37. a4 b4 38. Kc4 g4 39. fxg4+ Kg5 40. Kd5 Kf4 41. b3
+Kg3 42. Kxe5 Kxh3 43. g5 Kg2 44. g6 h3 45. g7 h2 46. g8=Q+ Kf1 47. Qh8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "cjtano"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1323"]
+[BlackElo "1364"]
+[TimeControl "180"]
+[EndTime "2:57:52 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d4 Nc6 4. Bg5 Bf5 5. Qd2 h6 6. Bh4 Ne4 7. Nxe4 dxe4 8.
+Ne5 Nxe5 9. dxe5 Qxd2+ 10. Kxd2 O-O-O+ 11. Ke1 f6 12. exf6 exf6 13. Bg3 Bb4+ 14.
+c3 Bd6 15. Bxd6 Rxd6 16. e3 Rhd8 17. Be2 Rd2 18. Rd1 Rxb2 19. Rxd8+ Kxd8 20. Bc4
+Kd7 21. Be2 Be6 22. f3 exf3 23. gxf3 Rxa2 24. Kf2 Bc4 25. Re1 Rxe2+ 26. Rxe2
+Bxe2 27. Kxe2 Kd6 28. Kd3 Kc5 29. Kc2 a5 30. Kb3 b5 31. h4 a4+ 32. Ka3 Kc4 33.
+Kb2 c5 34. h5 b4 35. cxb4 cxb4 36. f4 Kd3 37. e4 Kxe4 38. f5 Kxf5 39. Ka2 Ke4
+40. Kb2 Kd3 41. Ka2 Kc3 42. Kb1 f5 43. Ka2 f4 44. Kb1 f3 45. Ka2 f2 46. Kb1 b3
+47. Ka1 f1=Q# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "00juliangomez00"]
+[Result "1-0"]
+[WhiteElo "1371"]
+[BlackElo "1328"]
+[TimeControl "180"]
+[EndTime "3:00:39 PDT"]
+[Termination "abhute23 won by resignation"]
+
+1. e4 e5 2. f4 d6 3. d4 exd4 4. Qxd4 Nc6 5. Qd1 Nf6 6. Nc3 Bg4 7. Nf3 Be7 8. Bb5
+a6 9. Bxc6+ bxc6 10. O-O O-O 11. Be3 Bd7 12. Qd2 Rb8 13. f5 Rxb2 14. Nd4 Rb8 15.
+Rf3 c5 16. Nde2 Bc6 17. Nf4 Nxe4 18. Nxe4 Bxe4 19. Rg3 Bxf5 20. Nd5 Be6 21. Bh6
+Bf6 22. Nxf6+ Qxf6 23. Bxg7 Qf5 24. Bf6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "maitrejedi74"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1363"]
+[BlackElo "1363"]
+[TimeControl "180"]
+[EndTime "3:02:16 PDT"]
+[Termination "maitrejedi74 won by resignation"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Nxd4 Nxd4 5. Qxd4 d6 6. e5 Be6 7. exd6 Bxd6 8.
+Qxg7 Qf6 9. Qxf6 Nxf6 10. Nc3 O-O-O 11. Bg5 Be5 12. Bd3 Rd7 13. O-O-O Nd5 14.
+Nxd5 Bxd5 15. Bf5 Bxg2 16. Bxd7+ Kb8 17. Rhe1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "ravipingolia"]
+[Result "0-1"]
+[WhiteElo "1356"]
+[BlackElo "1405"]
+[TimeControl "180"]
+[EndTime "3:03:24 PDT"]
+[Termination "ravipingolia won by resignation"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. d3 Nf6 5. Nf3 Be6 6. Bf4 c5 7. d4 cxd4 8.
+Nxd4 Bb4 9. Qf3 O-O 10. Be5 Nbd7 11. Bd3 Nxe5 12. Qh3 Bxh3 13. gxh3 Nxd3+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "Blood_on_the_board"]
+[Black "abhute23"]
+[Result "1/2-1/2"]
+[WhiteElo "1393"]
+[BlackElo "1357"]
+[TimeControl "180"]
+[EndTime "3:07:27 PDT"]
+[Termination "Game drawn by agreement"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Bg4 5. d3 Be7 6. h3 Bxf3 7. Qxf3 Nc6 8.
+Bg5 Nd4 9. Qd1 d5 10. c3 Nc6 11. Bxf6 Bxf6 12. d4 dxe4 13. Bb5 O-O 14. Bxc6 bxc6
+15. O-O Qd5 16. Qe2 Rfe8 17. Nd2 Re6 18. Rfd1 Rae8 19. Qe3 Bg5 20. Qe2 Bxd2 21.
+Rxd2 e3 22. fxe3 Rxe3 23. Qd1 Re1+ 24. Qxe1 Rxe1+ 25. Rxe1 g6 26. b3 Qa5 27. Re3
+Qa3 28. Red3 Kg7 29. Kf2 Qd6 30. Rf3 f5 31. Re2 Kf6 32. Rfe3 g5 33. Re6+ Qxe6
+34. Rxe6+ Kxe6 35. Kf3 h5 36. c4 Kf6 37. g4 h4 38. b4 f4 39. Ke4 Ke6 40. d5+
+cxd5+ 41. cxd5+ Kd6 42. a4 c6 43. dxc6 Kxc6 44. Kf3 Kb6 45. Ke4 a5 46. b5 Kc5
+47. Kf3 Kb6 48. Ke4 Kb7 49. Kf3 Kc7 50. Ke4 Kb7 51. Kf3 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "007aana"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1324"]
+[BlackElo "1348"]
+[TimeControl "180"]
+[EndTime "3:13:05 PDT"]
+[Termination "007aana won - game abandoned"]
+
+1. g3 e5 2. Bg2 Nf6 3. b3 Nc6 4. Bb2 d5 5. d3 Bd6 6. Nd2 d4 7. e3 Bd7 8. Ne2
+dxe3 9. fxe3 O-O 10. O-O Bg4 11. Qe1 Qd7 12. e4 Bh3 13. Nf3 Bxg2 14. Kxg2 Ne7
+15. h3 Ng6 16. Bc1 h6 17. Kh2 Kh8 18. g4 Kh7 19. Ng3 Nf4 20. Nf5 Be7 21. N3h4 g5
+22. Ng2 Nxg2 23. Kxg2 Ne8 24. Nxe7 Qxe7 25. Rf5 Ng7 26. Rf1 Qc5 27. c4 Qd4 28.
+Be3 Qd7 29. Rd1 Ne6 30. Qf2 Nd4 31. Bxd4 Qxd4 32. Qf5+ Kg7 33. Qf6+ Kh7 34. Rd2
+Rae8 35. Qf5+ Kg7 36. Qf6+ Kg8 37. Qxh6 Re6 38. Qxg5+ Rg6 39. Qf5 Kg7 40. h4 Qd8
+41. Kh3 Rh8 42. h5 Rf6 43. Qg5+ Kf8 44. Rxf6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.14"]
+[Round "-"]
+[White "abhute23"]
+[Black "matt408"]
+[Result "0-1"]
+[WhiteElo "1341"]
+[BlackElo "1381"]
+[TimeControl "180"]
+[EndTime "19:44:51 PDT"]
+[Termination "matt408 won by resignation"]
+
+1. e4 c6 2. f4 d5 3. d4 Nf6 4. e5 Ne4 5. Bd3 Bf5 6. Nf3 e6 7. O-O h5 8. Nbd2 h4
+9. Bxe4 Bxe4 10. Nxe4 dxe4 11. Nd2 h3 12. Nxe4 hxg2 13. Kxg2 Qh4 14. Rh1 Qh3+
+15. Kg1 Nd7 16. Ng3 c5 17. dxc5 Bxc5+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.15"]
+[Round "-"]
+[White "MobinAlpha"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1383"]
+[BlackElo "1334"]
+[TimeControl "180"]
+[EndTime "22:53:00 PDT"]
+[Termination "MobinAlpha won by resignation"]
+
+1. Nf3 d5 2. g3 Nc6 3. Bg2 Nf6 4. O-O e5 5. d3 e4 6. dxe4 dxe4 7. Qxd8+ Kxd8 8.
+Nfd2 Bf5 9. e3 Bd6 10. Nc3 Re8 11. Nc4 Kd7 12. Nxd6 cxd6 13. Rd1 Ne5 14. Nb5 Re6
+15. Nd4 Re7 16. Nxf5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.15"]
+[Round "-"]
+[White "abhute23"]
+[Black "Rameshchockalingam"]
+[Result "1-0"]
+[WhiteElo "1342"]
+[BlackElo "1328"]
+[TimeControl "180"]
+[EndTime "22:53:26 PDT"]
+[Termination "abhute23 won by resignation"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.15"]
+[Round "-"]
+[White "dutch261982"]
+[Black "abhute23"]
+[Result "0-1"]
+[WhiteElo "1336"]
+[BlackElo "1350"]
+[TimeControl "180"]
+[EndTime "22:59:33 PDT"]
+[Termination "abhute23 won on time"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. O-O Nf6 5. d3 Be7 6. Bg5 O-O 7. Bxf6 Bxf6 8.
+Nc3 Bg4 9. Bb5 Nd4 10. Bc4 Nxf3+ 11. gxf3 Bh3 12. Re1 Bh4 13. f4 exf4 14. Qf3
+Qg5+ 15. Kh1 Bg4 16. Qg2 f3 17. Qg1 h5 18. Nd1 Qf4 19. Ne3 Bg5 20. Nxg4 hxg4 21.
+Qg3 g6 22. Rg1 Kg7 23. Qxg4 Rh8 24. h3 Rxh3+ 25. Qxh3 Rh8 26. Rg3 Rxh3+ 27. Rxh3
+Qd2 28. Rxf3 Qxc2 29. Rg1 Bf6 30. Rg4 Qd1+ 31. Kg2 Qb1 32. Rgf4 Qxb2 33. e5 Qxe5
+34. Re4 Qg5+ 35. Rg3 Qa5 36. Rf3 c5 37. Bd5 b5 38. Ref4 Qd8 39. Rxf6 Qxf6 40.
+Rxf6 Kxf6 41. a3 Ke5 42. Be4 f5 43. Bc6 a5 44. f3 b4 45. axb4 axb4 46. Ba4 Kd4
+47. Bb3 Kxd3 48. Be6 Kc2 49. Bf7 b3 50. Bxg6 b2 51. Bxf5+ Kc1 52. Kg3 b1=Q 53.
+Bxb1 Kxb1 54. Kf4 c4 55. Ke3 c3 56. Kd3 c2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.15"]
+[Round "-"]
+[White "abhute23"]
+[Black "GARRYTalParov"]
+[Result "0-1"]
+[WhiteElo "1343"]
+[BlackElo "1402"]
+[TimeControl "180"]
+[EndTime "23:01:31 PDT"]
+[Termination "GARRYTalParov won by resignation"]
+
+1. e4 d6 2. Nc3 g6 3. d4 Bg7 4. Nf3 Nf6 5. e5 e6 6. Bg5 dxe5 7. dxe5 Qxd1+ 8.
+Rxd1 Nd5 9. Nxd5 exd5 10. Rxd5 O-O 11. Bf6 Bxf6 12. exf6 Nd7 13. h4 Nxf6 14. Rc5
+c6 15. h5 Nxh5 16. g4 Nf6 17. g5 Ne4 18. Rc4 Bf5 19. Bd3 Rfe8 20. Bxe4 Bxe4 21.
+Ke2 Bd5+ 22. Re4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.15"]
+[Round "-"]
+[White "abhute23"]
+[Black "bryantolo"]
+[Result "0-1"]
+[WhiteElo "1336"]
+[BlackElo "1384"]
+[TimeControl "180"]
+[EndTime "23:04:12 PDT"]
+[Termination "bryantolo won by checkmate"]
+
+1. e4 c6 2. Nc3 d5 3. exd5 cxd5 4. d4 Bf5 5. Nf3 e6 6. Bf4 Nc6 7. Bb5 Bb4 8. O-O
+Rc8 9. Qe2 Ne7 10. a3 Bxc3 11. bxc3 O-O 12. Bd3 Bxd3 13. Qxd3 Nf5 14. g4 Nh4 15.
+Ng5 Ng6 16. h4 h6 17. Nxf7 Rxf7 18. Qxg6 Rxf4 19. Qxe6+ Kh7 20. f3 Qxh4 21. Rf2
+Qg3+ 22. Rg2 Qxf3 23. Rf1 Qxf1+ 24. Kh2 Rcf8 25. g5 Rh4+ 26. Kg3 Qf4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.15"]
+[Round "-"]
+[White "Tonijohn"]
+[Black "abhute23"]
+[Result "1-0"]
+[WhiteElo "1355"]
+[BlackElo "1328"]
+[TimeControl "180"]
+[EndTime "23:06:17 PDT"]
+[Termination "Tonijohn won by resignation"]
+
+1. e4 e5 2. d3 d6 3. Be3 Nc6 4. f3 Nf6 5. c3 Be7 6. Ne2 O-O 7. Nc1 Nd7 8. Nb3
+Nb6 9. Na3 d5 10. Qc2 d4 11. Bf2 f5 12. Nc4 Nxc4 13. dxc4 fxe4 14. fxe4 Bg5 15.
+Rd1 Bg4 16. Be2 Qf6 17. Rf1 Bxe2 18. Qxe2 Rf7 19. Bg1 Qxf1+ 20. Qxf1 Rxf1+ 21.
+Kxf1 Rf8+ 22. Ke1 dxc3 23. bxc3 a6 24. Ke2 Na7 25. Rf1 Rd8 26. Rd1 Re8 27. Bxa7
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.15"]
+[Round "-"]
+[White "abhute23"]
+[Black "Tiller4363"]
+[Result "1-0"]
+[WhiteElo "1336"]
+[BlackElo "1325"]
+[TimeControl "180"]
+[EndTime "23:10:22 PDT"]
+[Termination "abhute23 won by checkmate"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 Bd7 5. d4 cxd4 6. Nxd4 g6 7. Be3 Nf6 8. Nxc6
+bxc6 9. e5 dxe5 10. fxe5 Ng4 11. Bd4 Nh6 12. Bc4 a6 13. O-O e6 14. Be3 Nf5 15.
+Qf3 Qe7 16. g4 Nxe3 17. Qxe3 Bg7 18. Rf2 O-O 19. Raf1 Qb4 20. Bb3 Qxg4+ 21. Kh1
+c5 22. Ne4 Rae8 23. Nf6+ Bxf6 24. exf6 Bc6+ 25. Rf3 Bxf3+ 26. Rxf3 Qd4 27. Qh6
+Qd1+ 28. Kg2 Qe2+ 29. Kg3 Qe1+ 30. Kg4 Qg1+ 31. Kh3 Re7 32. Qg7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.15"]
+[Round "-"]
+[White "abhute23"]
+[Black "BaisakhiSangha"]
+[Result "1-0"]
+[WhiteElo "1345"]
+[BlackElo "1367"]
+[TimeControl "180"]
+[EndTime "23:13:04 PDT"]
+[Termination "abhute23 won by resignation"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Be7 4. Nf3 Nf6 5. O-O d6 6. d4 exd4 7. Nxd4 Nxd4 8.
+Qxd4 c5 9. Qd1 O-O 10. Nd5 Nxe4 11. Re1 Bf5 12. f3 Bh4 13. fxe4 Bxe1 14. exf5
+Qh4 15. Qf3 Qxc4 16. Nf6+ gxf6 17. Bh6 Rfe8 18. b3 Qd4+ 19. Kh1 Qxa1 20. Qg4+
+1-0
